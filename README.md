@@ -44,4 +44,3 @@ A comparative study of **Foundation Models (TabPFN v2.0)** versus **Traditional 
 * **ROC Curves:** Demonstrating the superior ranking capability of the Random Forest model.
 
 ---
-*Submitted as part of the Pattern Recognition (CCAI-312) Course Project.*
